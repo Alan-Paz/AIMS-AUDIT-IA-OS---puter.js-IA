@@ -1,3 +1,8 @@
+<img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/d3ad11fa-1200-4cf6-bb8f-653812083b4d" />
+
+
+
+
 \documentclass[12pt,a4paper]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
